@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="failure">&#10060; Bad Credential</string>
+    <string name="success">&#128075; Welcome Bob</string>
+</resources>
